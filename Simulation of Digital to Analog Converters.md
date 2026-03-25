@@ -12,7 +12,7 @@ LT-Spice
 
 2. New schematic window open.
 
-3. Pick and paste the required component from the library and draw the circuit diagram.
+3. Pick and paste the required component from the library and draw the circuit diagram .
 
 4. Complete the connection.
 
@@ -35,13 +35,12 @@ For v2 and v3  keeping the other values constant.
 
 ## CIRCUIT DIAGRAM:
 ### DAC:
-<img width="855" height="474" alt="image" src="https://github.com/user-attachments/assets/35a3a86e-8585-498a-ae4b-7f4d81261c5d" />
+![WhatsApp Image 2026-03-21 at 7 11 12 PM](https://github.com/user-attachments/assets/412e36c9-b07b-4df7-ac74-409d7e6b01bb)
 
 
 ## OUTPUT GRAPH:
 ### DAC:
-<img width="993" height="315" alt="image" src="https://github.com/user-attachments/assets/2b71a059-3af7-4de1-914a-28196856d738" />
-
+![WhatsApp Image 2026-03-21 at 7 11 03 PM](https://github.com/user-attachments/assets/c072efbf-93af-4aee-b953-8cdf7e62e3fa)
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and digital to analog converter (DAC) circuit is simulated.
